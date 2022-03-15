@@ -1,4 +1,4 @@
-## Submit: Java Classes & Objects
+# Submit: Java Classes & Objects
 
 1. Create a Pet Class with the following instance variables: 
 
