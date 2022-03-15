@@ -1,18 +1,25 @@
-## Getting Started
+## Submit: Java Classes & Objects
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+1. Create a Pet Class with the following instance variables: 
 
-## Folder Structure
+name (PRIVATE) 
+age (PRIVATE) 
+location (PRIVATE) 
+type (PRIVATE) 
+two constructors(empty, all attributes)
+Code to be able to access the following (Get Methods): 
+name, age, type 
+Code to be able to change (Set Methods): 
+name, age, location  
+2. Create a Custom Class (anything you want - car, phone, holiday, etc.). 
 
-The workspace contains two folders by default, where:
+Requirements: 
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Minimum 3 private instance variables 
+An empty constructor 
+A constructor that uses only 2 of your 3 variables
+A constructor that uses all 3 of your instance variables 
+Get methods for all 3 of your instance variables and Set methods for all 3 of your instance variables 
+A method that returns a Boolean 
+A method that returns a String (For example, if I created a Santa Custom Class, my code would look something like the attached Santa.java file. 
+Submit a link to your GitHub repository
